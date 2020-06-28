@@ -1,0 +1,15 @@
+*.log
+local_settings.py
+.vscode
+.DS_Store
+*.sqlite3
+media/
+*.pyc
+*.db
+*.pid
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+*.pyc
+__pycache__/
+db.sqlite3
